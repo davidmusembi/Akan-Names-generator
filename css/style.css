@@ -1,0 +1,8 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+   background-blend-mode: multiply;
+
+  background: url(../images/background.jpg) rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: black;
+}

@@ -45,7 +45,7 @@ Follow the below steps to set up this application
 
 
 ### Github Pages link
-You can view and use the live application by visiting this link [Akan-Names-generator](https://davidmusembi.github.io/Akan-Names-generator/)
+You can view and use the live github application by visiting this link [Akan-Names-generator](https://davidmusembi.github.io/Akan-Names-generator/)
 
 ## License
 #### *MIT License*

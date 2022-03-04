@@ -17,3 +17,8 @@ header h3 {
     color: white;
     Text-align: center;
 }
+.infor p {
+    font-size: larger;
+    font-weight: 400;
+    color: white;
+}

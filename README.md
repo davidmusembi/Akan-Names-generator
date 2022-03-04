@@ -14,7 +14,7 @@ David Musembi - Student at Moringa software development prep
 
 ### Description
    This is a  web application that helps one generate their Akan name based on their date of birth. Akan names are derived from Ghanian culture.
-   The users simply inputs their date of birth in the form provided,select gender, and click on generate name button.
+   The users simply inputs their date of birth in the form provided,select gender, and click on submit  button.
    The app then calculates day of the week they were born and genenates Akan name for them based on their gender.
 ### Features
 This App features the below in summary:
@@ -22,6 +22,7 @@ This App features the below in summary:
 * Input month of birth.
 * Input day of birth.
 * Select Gender.
+* click the submit button
 * Output of Akan name.
 
 #### **BDD**

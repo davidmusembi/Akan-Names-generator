@@ -55,8 +55,8 @@ Follow the below steps to set up this application
 You can view and use the live github application by visiting this link [Akan-Names-generator](https://davidmusembi.github.io/Akan-Names-generator/)
 
 ### Contact Information 
-Phone Number :+254726955034
-Email Address :david.musembi@student.moringaschool.com
+Phone Number :+254726955034<br>
+Email Address :david.musembi@student.moringaschool.com<br>
 
 ## License
 #### *MIT License*

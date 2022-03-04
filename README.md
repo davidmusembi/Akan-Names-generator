@@ -10,7 +10,7 @@ Web app that generates user birthday dates and outputs their akan names generate
 
 
 ## Author
-David Musembi - Moringa software development prep
+David Musembi - Student at Moringa software development prep
 
 ### Description
    This is a  web application that helps one generate their Akan name based on their date of birth. Akan names are derived from Ghanian culture.

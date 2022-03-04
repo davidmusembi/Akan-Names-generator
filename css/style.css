@@ -6,3 +6,10 @@ body {
   text-align: center;
   color: black;
 }
+header h3 {
+    padding: 15px;
+    font-weight: 700;
+    font-size: xx-large;
+    color:whitesmoke;
+    Text-align: center;
+}

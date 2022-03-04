@@ -19,14 +19,14 @@ This App features the below in summary:
 * Output of Akan name.
 
 #### **BDD**
-*Write code to handle* 
-Wrong input entered 
-No data entered 
-Correct data entered 
-*Sample input*
-1999    8   12  Male 
-*Expected Output* 
-Correct Akan name to match day of the week. Example Kofi - Male born on a Friday.
+*Write code to handle*<br>
+Wrong input entered <br>
+No data entered <br>
+Correct data entered<br> 
+*Sample input*<br>
+1999    8   12  Male<br> 
+*Expected Output* <br>
+Correct Akan name to match day of the week. Example Kofi - Male born on a Friday.<br>
 
 ### Installation and Set-up
 To use the app, open the Github Pages link provided below on the README.

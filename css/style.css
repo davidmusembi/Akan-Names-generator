@@ -22,3 +22,13 @@ header h3 {
     font-weight: 400;
     color: white;
 }
+form {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    border-radius: 50px;
+    background: url(../images/grey.jpeg);
+    padding: 20px;
+    width: 80%;
+    margin-left: 25%;
+    color: white;
+}

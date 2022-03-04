@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
    background-blend-mode: multiply;
 
-  background: url(../images/background.jpg) rgba(0, 0, 0, 0.2);
+  background: url(../img/background.jpg) rgba(0, 0, 0, 0.2);
   text-align: center;
   color: black;
 }
@@ -26,7 +26,7 @@ form {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     border-radius: 50px;
-    background: url(../images/grey.jpeg);
+    background: url(../img/grey.jpeg);
     padding: 20px;
     width: 80%;
     margin-left: 25%;

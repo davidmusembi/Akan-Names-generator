@@ -1,10 +1,16 @@
 # Akan-Names-generator
 Web app that generates user birthday dates and outputs their akan names generated from their birthday
+
 ### A Screenshot of the Akan-Name-generator Web app
-![alt text](img/Web app screenshoot.png)
+![Web app screenshoot](https://user-images.githubusercontent.com/51710726/156756204-c9cdedff-995d-47d0-814a-3581d778f798.png)
+
+
+### A Screenshot of the Akan-Name-generator Web app OUTPUT
+![web app result](https://user-images.githubusercontent.com/51710726/156756124-2d34d8c0-03cc-49a8-bd32-a4e1ed3b95e5.png)
+
 
 ## Author
-David Musembi
+David Musembi - Moringa software development prep
 
 ### Description
    This is a  web application that helps one generate their Akan name based on their date of birth. Akan names are derived from Ghanian culture.
@@ -46,6 +52,10 @@ Follow the below steps to set up this application
 
 ### Github Pages link
 You can view and use the live github application by visiting this link [Akan-Names-generator](https://davidmusembi.github.io/Akan-Names-generator/)
+
+### Contact Information 
+Phone Number :+254726955034
+Email Address :david.musembi@student.moringaschool.com
 
 ## License
 #### *MIT License*
